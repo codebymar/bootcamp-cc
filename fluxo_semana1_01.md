@@ -19,4 +19,3 @@ Observações:
 - É ideal para iniciantes praticarem o entendimento de processos lógicos e interação com o usuário.
 - Pode ser implementado de forma simples em linguagens como Java, Python, ou mesmo em um pseudocódigo.
 
-  
