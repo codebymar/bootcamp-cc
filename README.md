@@ -1,11 +1,7 @@
-## Introdução:
-Este repositório foi criado para armazenar todo o conteúdo desenvolvido e estudado durante o bootcamp focado em Lógica de Programação e Java. Aqui, você encontrará exercícios, projetos, anotações e materiais adicionais que auxiliam no aprendizado dos conceitos fundamentais de lógica e na prática com a linguagem Java.
+## Fluxogramas:
+Nesta seção, você encontrará os fluxogramas criados para representar e visualizar a lógica de resolução de problemas abordados durante o bootcamp. Os fluxogramas são ferramentas importantes para organizar o pensamento lógico, entender processos e estruturar soluções antes de implementá-las em código.
 
-O objetivo é organizar os estudos, acompanhar a evolução e facilitar a consulta de materiais e códigos no futuro. Sinta-se à vontade para explorar e contribuir!
+O que esperar nesta seção:
 
-Estrutura do Repositório:
-
-- Exercícios: Resolução de problemas e desafios de lógica e Java.
-- Projetos: Projetos práticos desenvolvidos ao longo do bootcamp.
-- Anotações: Resumos teóricos e dicas importantes.
-- Materiais Adicionais: Links úteis, artigos e outros recursos de estudo.
+- Fluxogramas Básicos: Exemplos simples para reforçar conceitos de lógica, como condições, laços e decisões.
+- Representação Visual de Algoritmos: Diagramas que mostram o passo a passo de algoritmos mais complexos.
