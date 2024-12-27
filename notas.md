@@ -1,3 +1,7 @@
+
+<img src="https://i.ibb.co/vLTswQJ/quebra-cabeca.png" alt="Lógica" width="140">
+
+
 # Lógica de Programação
 
 ## Índice
