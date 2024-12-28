@@ -10,7 +10,7 @@
   - [Algoritmos](#algoritmos)
   - [Diagramas de Blocos](#diagrama-de-blocos)
   - [Pseudocódigo](#pseudocodigo)
-    - [Regras para construção](#regras-para-construcao)
+    - [Regras para construção](#regras-para-construcão)
  - [Entrada de dados](#entrada-de-dados)
   - [O que é uma função?](#o-que-e-uma-funcao)
   - [Como funciona?](#como-funciona)
