@@ -1,11 +1,5 @@
-## Introdução:
-Este repositório foi criado para armazenar todo o conteúdo desenvolvido e estudado durante o bootcamp focado em Lógica de Programação e Java. Aqui, você encontrará exercícios, projetos, anotações e materiais adicionais que auxiliam no aprendizado dos conceitos fundamentais de lógica e na prática com a linguagem Java.
+## Introdução
 
-O objetivo é organizar os estudos, acompanhar a evolução e facilitar a consulta de materiais e códigos no futuro. Sinta-se à vontade para explorar e contribuir!
+Este branch foi criado para armazenar anotações relacionadas ao bootcamp focado em Lógica de Programação e Java. Aqui, você encontrará resumos teóricos, dicas importantes e observações feitas durante o aprendizado.
 
-Estrutura do Repositório:
-
-- Exercícios: Resolução de problemas e desafios de lógica e Java.
-- Projetos: Projetos práticos desenvolvidos ao longo do bootcamp.
-- Anotações: Resumos teóricos e dicas importantes.
-- Materiais Adicionais: Links úteis, artigos e outros recursos de estudo.
+O objetivo é consolidar e organizar o conhecimento adquirido ao longo do curso, tornando mais fácil a revisão dos conceitos abordados. Este é um espaço para reflexões e insights pessoais, bem como para a consulta rápida de conteúdos relevantes.
