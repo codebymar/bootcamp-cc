@@ -7,8 +7,20 @@
 ## Índice
 
 - [Introdução ao curso de Lógica](#introducao-ao-curso-de-logica)
+  -[Algoritmos](#algoritmos)
+  -[Diagramas de Blocos](#diagrama-de-blocos)
+  -[Pseudocódigo](#pseudocodigo)
+    -[Regras para construção](#regras-para-construcao)
 - [Entrada de dados](#entrada-de-dados)
+  -[O que é uma função?](#o-que-e-uma-funcao)
+  -[Como funciona?](#como-funciona)
 - [Fluxogramas](#fluxogramas)
+- [Tipos de Dados (Variáveis)](#tipos-de-dados-variaveis)
+  - [Constantes](#constantes)
+  - [Variáveis](#variaveis)
+    - [Tipos de variáveis](#tipos-de-variaveis)
+
+
 
   
 ## Introdução ao curso de Lógica
@@ -103,4 +115,33 @@ Os fluxogramas trazem várias vantagens para a programação, como:
 7. **Qualidade do Código**: Melhoram a consistência da implementação.
 
 Em resumo, fluxogramas tornam o desenvolvimento mais claro, organizado e eficiente.
-   
+
+## Tipos de Dados (Variáveis)
+
+As informações armazenadas na memória de um computador são convertidas em dados, permitindo que o computador as processe, analise e use para tomar decisões de forma eficiente.
+
+- Os dados manipulados pelo computador são: Constantes e Variáveis.
+
+### Constantes
+
+Uma constante é um tipo de dado cujo valor permanece inalterado durante toda a execução de um programa. Dependendo de seu tipo, as constantes podem ser classificadas como numéricas, lógicas ou literais.
+
+**Exemplos de constantes:**
+
+1. (P1 + P2 + P3) / 3: Constante numérica
+2. O nome é “**Maria**”: Constante Literal
+3. A lâmpada está **ACESSA**: Constante lógica
+
+### Variáveis
+
+Uma variável é um espaço reservado na memória do computador para armazenar um tipo de dado determinado. Variáveis devem receber nomes para
+poderem ser referenciadas e modificadas quando necessário.
+Um programa deve conter declarações que especificam de que tipo são as variáveis que ele utilizará e às vezes um valor inicial.
+
+![Variável](https://i.ibb.co/Jm9m0qK/Vari-vel.png)
+
+### Tipos de variáveis
+- Numéricas: Específicas para armazenamento de números, que posteriormente poderão ser utilizados para cálculos. Podem ser ainda classificadas como Inteiras ou Reais. As variáveis do tipo inteiro são para armazenamento de números inteiros e as reais são para o armazenamento de números que possuam casas decimais.
+- Alfabéticas: Especificas para armazenamento de conjunto de caracteres que não contenham números (literais) e símbolos (*, %, &, @, etc.). Ex: nomes.
+- Alfanuméricas: Especificas para dados que contenham qualquer tipo de caractere. Se usada somente para armazenamento de números, não poderá ser utilizada para operações matemáticas.
+- Lógicas: Armazenam somente dados lógicos que podem ser Verdadeiro ou Falso
