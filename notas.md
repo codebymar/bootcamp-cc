@@ -6,13 +6,13 @@
 
 ## Índice
 
-- [Introdução ao curso de Lógica](#introducao-ao-curso-de-logica)
+- [Introdução ao curso de Lógica](#introdução-ao-curso-de-lógica)
   - [Algoritmos](#algoritmos)
   - [Diagramas de Blocos](#diagrama-de-blocos)
-  - [Pseudocódigo](#pseudocodigo)
-    - [Regras para construção](#regras-para-construcão)
+  - [Pseudocódigo](#pseudocódigo)
+    - [Regras para construção](#regras-para-construção)
  - [Entrada de dados](#entrada-de-dados)
-  - [O que é uma função?](#o-que-e-uma-funcao)
+  - [O que é uma função?](#o-que-e-uma-função)
   - [Como funciona?](#como-funciona)
 - [Fluxogramas](#fluxogramas)
 - [Tipos de Dados](#tipos-de-dados)
