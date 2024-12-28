@@ -17,8 +17,8 @@
 - [Fluxogramas](#fluxogramas)
 - [Tipos de Dados](#tipos-de-dados)
   - [Constantes](#constantes)
-  - [Variáveis](#variaveis)
-    - [Tipos de variáveis](#tipos-de-variaveis)
+  - [Variáveis](#variáveis)
+    - [Tipos de variáveis](#tipos-de-variáveis)
 
 
 
