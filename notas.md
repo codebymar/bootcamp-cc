@@ -12,7 +12,7 @@
   - [Pseudocódigo](#pseudocódigo)
     - [Regras para construção](#regras-para-construção)
  - [Entrada de dados](#entrada-de-dados)
-  - [O que é uma função?](#o-que-é-uma-função-?)
+  - [O que é uma função?](#o-que-é-uma-função?)
   - [Como funciona?](#como-funciona)
 - [Fluxogramas](#fluxogramas)
 - [Tipos de Dados](#tipos-de-dados)
