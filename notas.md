@@ -15,7 +15,7 @@
   - [O que é uma função?](#o-que-e-uma-funcao)
   - [Como funciona?](#como-funciona)
 - [Fluxogramas](#fluxogramas)
-- [Tipos de Dados (Variáveis)](#tipos-de-dados-variaveis)
+- [Tipos de Dados](#tipos-de-dados)
   - [Constantes](#constantes)
   - [Variáveis](#variaveis)
     - [Tipos de variáveis](#tipos-de-variaveis)
@@ -116,7 +116,7 @@ Os fluxogramas trazem várias vantagens para a programação, como:
 
 Em resumo, fluxogramas tornam o desenvolvimento mais claro, organizado e eficiente.
 
-## Tipos de Dados (Variáveis)
+## Tipos de Dados
 
 As informações armazenadas na memória de um computador são convertidas em dados, permitindo que o computador as processe, analise e use para tomar decisões de forma eficiente.
 
