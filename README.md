@@ -1,7 +1,8 @@
-## Fluxogramas:
-Nesta seção, você encontrará os fluxogramas criados para representar e visualizar a lógica de resolução de problemas abordados durante o bootcamp. Os fluxogramas são ferramentas importantes para organizar o pensamento lógico, entender processos e estruturar soluções antes de implementá-las em código.
+## Exercícios e Fluxogramas:
 
-O que esperar nesta seção:
+Nesta seção, você encontrará exercícios práticos e seus respectivos fluxogramas, desenvolvidos durante o bootcamp. Esses materiais ajudam a consolidar habilidades de lógica de programação, permitindo a visualização dos processos e a estruturação clara das soluções antes da implementação em código.
 
-- Fluxogramas Básicos: Exemplos simples para reforçar conceitos de lógica, como condições, laços e decisões.
-- Representação Visual de Algoritmos: Diagramas que mostram o passo a passo de algoritmos mais complexos.
+### O que esperar nesta seção:
+- Exercícios Básicos: Problemas introdutórios que abordam conceitos como condições, loops e decisões.
+- Fluxogramas Explicativos: Representações visuais que mostram a lógica por trás de cada exercício, facilitando o entendimento do passo a passo da solução.
+- Desafios Avançados: Problemas mais complexos acompanhados de fluxogramas que ilustram o raciocínio lógico necessário para resolvê-los.
