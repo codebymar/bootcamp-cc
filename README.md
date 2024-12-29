@@ -5,7 +5,7 @@ O objetivo é organizar os estudos, acompanhar a evolução e facilitar a consul
 
 Estrutura do Repositório:
 
-- Exercícios: Resolução de problemas e desafios de lógica e Java.
+- [Exercícios](https://github.com/codebymar/bootcamp-cc/tree/exercicios): Resolução de problemas e desafios de lógica e Java.
 - Projetos: Projetos práticos desenvolvidos ao longo do bootcamp.
 - [Anotações](https://github.com/codebymar/bootcamp-cc/blob/notas/notas.md): Resumos teóricos e dicas importantes.
 - Materiais Adicionais: Links úteis, artigos e outros recursos de estudo.
